@@ -13,3 +13,5 @@ npm run dev
 Вход
 Email: admin@example.com
 Пароль: admin
+teacher@example.com / teacher
+superadmin@example.com / superAdmin
